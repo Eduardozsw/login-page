@@ -14,4 +14,4 @@ Esse projeto foi criado utilizando TypeScript + Angular 17 no Front-end na cria�
 
 ## Como rodar
 
-Após realizar o download do projeto na sua maquina, abra o Visual Studio Code e rode no terminal o comando `npm run start` e em seguida basta abrir o link `http://localhost:4200/` para ver a aplicação
+Após realizar o download do projeto na sua maquina, abra o Visual Studio Code e rode no terminal o comando `npm run start` e em seguida basta abrir o link `http://localhost:4200/` para ver a aplicação, em seguida adicione ao final do link `login`, deixando o link da seguinte forma `http://localhost:4200/login`
